@@ -1,1 +1,1 @@
-## Organization holding the code for the modeling frameworks for global and target analysis (GloTarAn)
+## Modeling frameworks for global and target analysis (GloTarAn)
